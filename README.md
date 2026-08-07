@@ -30,7 +30,7 @@ The two branches are coupled: localization determines which evidence is availabl
 ## 🧠 Method overview
 
 <p align="center">
-  <img src="assets/framework.png" alt="ViToS dual-stream reinforcement learning framework" width="100%">
+  <img src="framework.png" alt="ViToS dual-stream reinforcement learning framework" width="100%">
 </p>
 
 ### ✨ Key features
